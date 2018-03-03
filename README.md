@@ -1,6 +1,11 @@
 # ggear
 
 ## setup
+Either:
+**npm install http-server -g**
+and/or:
+**npm install live-server -g**
+
 1. npm init -y
 2. npm install
 
