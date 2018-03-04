@@ -1,6 +1,6 @@
 {
   "name": "ggear",
-  "description": "",
+  "description": "Sample Online Auction from Chapter 2 from the book Angular 2 Development with TypeScript",
   "private": true,
   "scripts": {
     "start": "echo \"Starting ggear with live-server\" && live-server"

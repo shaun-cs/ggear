@@ -4,7 +4,7 @@ System.config({
         experimentalDecorators: true,
         emitDecoratorMetadata: true,
         target: "ES5",
-        module: "commonjs"
+        module: "system"
     },
     map: {
       '@angular': 'node_modules/@angular',

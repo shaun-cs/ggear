@@ -26,3 +26,6 @@ Would be loathed to deploy this into production without fully understanding it.
 ##### SystemJS configuration: 
 really understand what configuration files are needed and how it works with typescript
 
+##### Study Typescript import syntax
+https://blog.jdriven.com/2017/06/typescript-and-es6-import-syntax/
+
